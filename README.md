@@ -41,6 +41,17 @@ Hey dog, taken with a Nikon 45D
 <img width="3062" height="1042" alt="image" src="https://github.com/user-attachments/assets/a36d37da-132a-4adc-ae45-9f37f8c3f02c" />
 
 ---
+## Nesting Variables
+
+You can also nest variables inside of variables as seen in the example under, this way you can have more variables and make a even more dynamic setup. That you can split into different sections. 
+<img width="3616" height="1586" alt="image" src="https://github.com/user-attachments/assets/d90458bb-d9dc-4c68-93c4-398904e7ab8f" />
+
+For nested workflow example, drag and drop the image under into your ComfyUI.
+
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/94e36d02-e275-4821-85e8-39765843e17d" />
+
+
+---
 
 ## Installation
 
