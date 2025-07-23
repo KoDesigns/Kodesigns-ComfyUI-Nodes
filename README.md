@@ -37,7 +37,7 @@ These nodes allow you to modularly define variables (e.g., subject, camera, time
 
 ---
 
-## Example Workflow
+## Example Workflow: Basic
 
 **Template**
 
@@ -58,7 +58,7 @@ Hey dog, taken with a Nikon 45D
 <img width="3062" height="1042" alt="image" src="https://github.com/user-attachments/assets/a36d37da-132a-4adc-ae45-9f37f8c3f02c" />
 
 ---
-## Nesting Variables
+## Example Workflow: Nesting Variables
 
 You can also nest variables inside of variables as seen in the example under, this way you can have more variables and make a even more dynamic setup. That you can split into different sections.
 
