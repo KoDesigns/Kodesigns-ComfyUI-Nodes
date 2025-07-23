@@ -48,7 +48,7 @@ You can also nest variables inside of variables as seen in the example under, th
 
 For nested workflow example, drag and drop the image under into your ComfyUI.
 
-<img width="2752" height="1536" alt="ComfyUI_00011_" src="https://github.com/user-attachments/assets/43402ab1-6544-450e-b059-bc02c9e15ece" />
+<img width="2752" height="1536" alt="ComfyUI_00011_" src="https://raw.githubusercontent.com/KoDesigns/Kodesigns-ComfyUI-Nodes/refs/heads/main/example/NestedWorkflowExample.png"/>
 
 
 ---
