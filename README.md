@@ -1,5 +1,10 @@
 
 <img width="312" height="65" alt="logo" src="https://github.com/user-attachments/assets/7c06c67d-27b5-453c-9ba4-5dfde04eedae" />
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/KoDesigns/Kodesigns-ComfyUI-Nodes)](https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes/releases)
+[![GitHub stars](https://img.shields.io/github/stars/KoDesigns/Kodesigns-ComfyUI-Nodes)](https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes/stargazers)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-Nodes-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/KoDesigns/Kodesigns-ComfyUI-Nodes)
 
 # Kodesigns-ComfyUI-Nodes
 
