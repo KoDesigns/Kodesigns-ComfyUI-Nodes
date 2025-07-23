@@ -1,10 +1,22 @@
 
 <img width="312" height="65" alt="logo" src="https://github.com/user-attachments/assets/7c06c67d-27b5-453c-9ba4-5dfde04eedae" />
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/KoDesigns/Kodesigns-ComfyUI-Nodes)](https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes/releases)
-[![GitHub stars](https://img.shields.io/github/stars/KoDesigns/Kodesigns-ComfyUI-Nodes)](https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes/stargazers)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-Nodes-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/KoDesigns/Kodesigns-ComfyUI-Nodes)
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes/releases">
+    <img src="https://img.shields.io/github/v/release/KoDesigns/Kodesigns-ComfyUI-Nodes" alt="GitHub release">
+  </a>
+  <a href="https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes/stargazers">
+    <img src="https://img.shields.io/github/stars/KoDesigns/Kodesigns-ComfyUI-Nodes" alt="GitHub stars">
+  </a>
+  <a href="https://img.shields.io/badge/ComfyUI-Nodes-blue">
+    <img src="https://img.shields.io/badge/ComfyUI-Nodes-blue" alt="ComfyUI">
+  </a>
+  <a href="https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes/commits/main">
+    <img src="https://img.shields.io/github/last-commit/KoDesigns/Kodesigns-ComfyUI-Nodes" alt="Last commit">
+  </a>
+</p>
 
 # Kodesigns-ComfyUI-Nodes
 
