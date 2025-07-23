@@ -38,6 +38,7 @@ Hey {subject}, taken with a {camera}
 ```
 Hey dog, taken with a Nikon 45D
 ```
+<img width="3062" height="1042" alt="image" src="https://github.com/user-attachments/assets/a36d37da-132a-4adc-ae45-9f37f8c3f02c" />
 
 ---
 
