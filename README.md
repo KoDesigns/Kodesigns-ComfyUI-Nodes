@@ -15,7 +15,7 @@
   </a>
 </p>
 
-# Kodesigns-ComfyUI-Nodes
+# Kodesigns-ComfyUI-Nodes 🧩
 
 Custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) focused on **variable‑driven prompt building**.
 These nodes allow you to modularly define variables (e.g., subject, camera, time of day) and reuse them across prompts — making your workflows cleaner and easier to manage.
