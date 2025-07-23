@@ -1,5 +1,5 @@
 
-<img width="635" height="130" alt="logo" src="https://github.com/user-attachments/assets/7c06c67d-27b5-453c-9ba4-5dfde04eedae" />
+<img width="312" height="65" alt="logo" src="https://github.com/user-attachments/assets/7c06c67d-27b5-453c-9ba4-5dfde04eedae" />
 
 # Kodesigns-ComfyUI-Nodes
 
