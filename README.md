@@ -32,7 +32,6 @@ These nodes allow you to modularly define variables (e.g., subject, camera, time
 * **TemplatePromptBuilder Node**
 
   * Combine multiple variables into one prompt
-  * Multiline template support with `{placeholders}`
   * Handles missing variables gracefully
 
 ---
