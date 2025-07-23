@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="50c8c97d-12ec-4739-83f4-462746bc97db" src="https://github.com/user-attachments/assets/b7c13b3e-66bd-4f46-8177-609feba8df57" />
+
 # Kodesigns-ComfyUI-Nodes
 
 Custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) focused on **variable‑driven prompt building**.
