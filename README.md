@@ -1,6 +1,6 @@
 
 <img width="312" height="65" alt="logo" src="https://github.com/user-attachments/assets/7c06c67d-27b5-453c-9ba4-5dfde04eedae" />
-<p align="center">
+<p align="left">
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
