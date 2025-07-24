@@ -18,7 +18,7 @@
 # Kodesigns-ComfyUI-Nodes 🧩
 
 Custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) focused on **variable‑driven prompt building**.
-These nodes allow you to modularly define variables (e.g., subject, camera, time of day) and reuse them across prompts — making your workflows cleaner and easier to manage.
+These nodes allow you to modularly define variables (e.g., subject, camera, time of day) and reuse them across prompts, making your workflows cleaner and easier to manage.
 
 ---
 
@@ -75,7 +75,6 @@ For nested workflow example, drag and drop the image under into your ComfyUI.
 1. Clone this repository into your ComfyUI `custom_nodes` folder:
 
 ```bash
-cd ComfyUI/custom_nodes
 git clone https://github.com/KoDesigns/Kodesigns-ComfyUI-Nodes.git
 ```
 
